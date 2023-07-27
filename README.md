@@ -1,4 +1,4 @@
 
 Um projeto de Back-end, que se baseia numa estrutura de um jogo de RPG.
 
- Utilizando as stacks: Solid e POO.
+ Utilizando as stacks: TypeScrypt, Solid e POO.
